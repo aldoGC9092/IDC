@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# jupyter checkpoints
+Hands-on\ 1.\ Percepton\ Notebook\ (Tutorial)/.ipynb_checkpoints/
